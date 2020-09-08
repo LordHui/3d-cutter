@@ -23,3 +23,4 @@ TriMesh<T>(vector<array<T,3>>& nodes, vector<array<int,3>>& mesh)
 main.cpp is an interactive cutting interface that depends on OpenGL and GLUT. It supports drawing a curve that will be extended to a cutting surface, dragging pieces around, rotation and shifting, for more details, take a look at the comments in the keyboard callback function "void key(unsigned char key, int x, int y)".
 
 The video demo.mov is added to showcase the cutting effects.
+456
